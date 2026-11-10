@@ -1,0 +1,5 @@
+dist
+ms-playwright
+build
+MarkdownToPDF.spec
+version_info.txt
